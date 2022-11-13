@@ -7,7 +7,6 @@ def download_file(url):
     with requests.get(url, stream=True) as r:
         with open(generate_video_filename(), 'wb') as f:
             shutil.copyfileobj(r.raw, f)
-
     return local_filename
     
 import requests
