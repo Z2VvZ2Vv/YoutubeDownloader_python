@@ -1,6 +1,5 @@
 # YoutubeDownloader_python
-Download a youtube video with python
-----------------
+
 # Start the script 
 Just need to get the script and launch ```python3 yt-main.py```
 
