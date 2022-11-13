@@ -1,6 +1,6 @@
-## YoutubeDownloader_python
+# YoutubeDownloader_python
 
-# Start the script 
+## Start the script 
 Just need to get the script and launch ```python3 yt-main.py```
 
 That's it the video will be added directly in your folder.
